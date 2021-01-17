@@ -1,0 +1,52 @@
+{
+  "build": "he931aee_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-32",
+  "constrains": [],
+  "depends": [],
+  "extracted_package_dir": "C:\\Users\\Rimac\\.conda\\pkgs\\pandoc-2.11-he931aee_0",
+  "features": "",
+  "files": [
+    "Scripts/pandoc-citeproc.exe",
+    "Scripts/pandoc.exe"
+  ],
+  "fn": "pandoc-2.11-he931aee_0.conda",
+  "legacy_bz2_md5": "d91240266192c9ceaf4221c4e6f8f313",
+  "legacy_bz2_size": 31453640,
+  "license": "GPL-2.0",
+  "license_family": "GPL",
+  "link": {
+    "source": "C:\\Users\\Rimac\\.conda\\pkgs\\pandoc-2.11-he931aee_0",
+    "type": 1
+  },
+  "md5": "25c576500536da11c09cf78cca1d62ee",
+  "name": "pandoc",
+  "package_tarball_full_path": "C:\\Users\\Rimac\\.conda\\pkgs\\pandoc-2.11-he931aee_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Scripts/pandoc-citeproc.exe",
+        "path_type": "hardlink",
+        "sha256": "582524891c9a8a9bc20b12bc7d54cc02bb95ee8062c5cce11cf8b853c2ca3ad0",
+        "sha256_in_prefix": "582524891c9a8a9bc20b12bc7d54cc02bb95ee8062c5cce11cf8b853c2ca3ad0",
+        "size_in_bytes": 62209038
+      },
+      {
+        "_path": "Scripts/pandoc.exe",
+        "path_type": "hardlink",
+        "sha256": "cba65a5bea8d11e2ea42164fcb04514fdc5b61464f81c79479937eb2790a5445",
+        "sha256_in_prefix": "cba65a5bea8d11e2ea42164fcb04514fdc5b61464f81c79479937eb2790a5445",
+        "size_in_bytes": 87639054
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "7d5917b7ff9ce965f353d325e9ac564def1e95ae531032480b34182f7bb174fc",
+  "size": 20635136,
+  "subdir": "win-32",
+  "timestamp": 1602681710762,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-32/pandoc-2.11-he931aee_0.conda",
+  "version": "2.11"
+}

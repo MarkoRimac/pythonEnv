@@ -1,0 +1,233 @@
+{
+  "build": "py38hc431981_1003",
+  "build_number": 1003,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-32",
+  "constrains": [],
+  "depends": [
+    "cffi >=1.0.0",
+    "python >=3.8,<3.9.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Rimac\\.conda\\pkgs\\brotlipy-0.7.0-py38hc431981_1003",
+  "features": "",
+  "files": [
+    "Lib/site-packages/brotli/__init__.py",
+    "Lib/site-packages/brotli/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/brotli/__pycache__/brotli.cpython-38.pyc",
+    "Lib/site-packages/brotli/__pycache__/build.cpython-38.pyc",
+    "Lib/site-packages/brotli/_brotli.pyd",
+    "Lib/site-packages/brotli/brotli.py",
+    "Lib/site-packages/brotli/build.py",
+    "Lib/site-packages/brotlipy-0.7.0-py3.8.egg-info/PKG-INFO",
+    "Lib/site-packages/brotlipy-0.7.0-py3.8.egg-info/SOURCES.txt",
+    "Lib/site-packages/brotlipy-0.7.0-py3.8.egg-info/dependency_links.txt",
+    "Lib/site-packages/brotlipy-0.7.0-py3.8.egg-info/not-zip-safe",
+    "Lib/site-packages/brotlipy-0.7.0-py3.8.egg-info/requires.txt",
+    "Lib/site-packages/brotlipy-0.7.0-py3.8.egg-info/top_level.txt",
+    "Lib/site-packages/pycparser/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/pycparser/__pycache__/ast_transforms.cpython-38.pyc",
+    "Lib/site-packages/pycparser/__pycache__/c_ast.cpython-38.pyc",
+    "Lib/site-packages/pycparser/__pycache__/c_lexer.cpython-38.pyc",
+    "Lib/site-packages/pycparser/__pycache__/c_parser.cpython-38.pyc",
+    "Lib/site-packages/pycparser/__pycache__/lextab.cpython-38.pyc",
+    "Lib/site-packages/pycparser/__pycache__/plyparser.cpython-38.pyc",
+    "Lib/site-packages/pycparser/__pycache__/yacctab.cpython-38.pyc",
+    "Lib/site-packages/pycparser/ply/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/pycparser/ply/__pycache__/lex.cpython-38.pyc",
+    "Lib/site-packages/pycparser/ply/__pycache__/yacc.cpython-38.pyc"
+  ],
+  "fn": "brotlipy-0.7.0-py38hc431981_1003.conda",
+  "legacy_bz2_md5": "fd5148ca1b81d735a44f5f8724a70ad0",
+  "legacy_bz2_size": 442728,
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\Rimac\\.conda\\pkgs\\brotlipy-0.7.0-py38hc431981_1003",
+    "type": 1
+  },
+  "md5": "c8019f47685d0e9033c293329bbdafbf",
+  "name": "brotlipy",
+  "package_tarball_full_path": "C:\\Users\\Rimac\\.conda\\pkgs\\brotlipy-0.7.0-py38hc431981_1003.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/brotli/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "7312e8658449f917e0337303556f6bbff7745baa35dc8ff620d337b11cbf6300",
+        "sha256_in_prefix": "7312e8658449f917e0337303556f6bbff7745baa35dc8ff620d337b11cbf6300",
+        "size_in_bytes": 201
+      },
+      {
+        "_path": "Lib/site-packages/brotli/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "5da38f1a07e7e92cbc012babd14ee84f690b3a8a6d73ec49ca90b13d1fa3042c",
+        "sha256_in_prefix": "5da38f1a07e7e92cbc012babd14ee84f690b3a8a6d73ec49ca90b13d1fa3042c",
+        "size_in_bytes": 377
+      },
+      {
+        "_path": "Lib/site-packages/brotli/__pycache__/brotli.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "2b8d71b0f31bc74388792c1be1605b24d93b79588904c386161d71f5ac1834ed",
+        "sha256_in_prefix": "2b8d71b0f31bc74388792c1be1605b24d93b79588904c386161d71f5ac1834ed",
+        "size_in_bytes": 12223
+      },
+      {
+        "_path": "Lib/site-packages/brotli/__pycache__/build.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "ee3dcdb764557b4f216a8a31a6324ea8b4a3a48e55551d9a2dbc8e9c70b2364d",
+        "sha256_in_prefix": "ee3dcdb764557b4f216a8a31a6324ea8b4a3a48e55551d9a2dbc8e9c70b2364d",
+        "size_in_bytes": 10507
+      },
+      {
+        "_path": "Lib/site-packages/brotli/_brotli.pyd",
+        "path_type": "hardlink",
+        "sha256": "b52e6ec6bb6b89b8b8e5d74bbb05cfe9b571a045923d0c643808528342754ee8",
+        "sha256_in_prefix": "b52e6ec6bb6b89b8b8e5d74bbb05cfe9b571a045923d0c643808528342754ee8",
+        "size_in_bytes": 777216
+      },
+      {
+        "_path": "Lib/site-packages/brotli/brotli.py",
+        "path_type": "hardlink",
+        "sha256": "1eda615477a8d7626b9890d3e84c913e0d4e3a7b205e98101c246789a54c383e",
+        "sha256_in_prefix": "1eda615477a8d7626b9890d3e84c913e0d4e3a7b205e98101c246789a54c383e",
+        "size_in_bytes": 15861
+      },
+      {
+        "_path": "Lib/site-packages/brotli/build.py",
+        "path_type": "hardlink",
+        "sha256": "9188030082244b48ef482682f5989fd64b5fb722a5582ddc3c14c93e582646d4",
+        "sha256_in_prefix": "9188030082244b48ef482682f5989fd64b5fb722a5582ddc3c14c93e582646d4",
+        "size_in_bytes": 10405
+      },
+      {
+        "_path": "Lib/site-packages/brotlipy-0.7.0-py3.8.egg-info/PKG-INFO",
+        "path_type": "hardlink",
+        "sha256": "31eb594c03482c9a191f798c290f920a91ff14421104109a73a9014778532a0b",
+        "sha256_in_prefix": "31eb594c03482c9a191f798c290f920a91ff14421104109a73a9014778532a0b",
+        "size_in_bytes": 3522
+      },
+      {
+        "_path": "Lib/site-packages/brotlipy-0.7.0-py3.8.egg-info/SOURCES.txt",
+        "path_type": "hardlink",
+        "sha256": "5758f38e2ead643fd6173879db6d176166c3c8985fcee3700241fd8b2998b47e",
+        "sha256_in_prefix": "5758f38e2ead643fd6173879db6d176166c3c8985fcee3700241fd8b2998b47e",
+        "size_in_bytes": 3349
+      },
+      {
+        "_path": "Lib/site-packages/brotlipy-0.7.0-py3.8.egg-info/dependency_links.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "Lib/site-packages/brotlipy-0.7.0-py3.8.egg-info/not-zip-safe",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "Lib/site-packages/brotlipy-0.7.0-py3.8.egg-info/requires.txt",
+        "path_type": "hardlink",
+        "sha256": "75e66306966e6db4dd4d021f82e914daf1e29e45f8fe86af102fa571f0a0cce3",
+        "sha256_in_prefix": "75e66306966e6db4dd4d021f82e914daf1e29e45f8fe86af102fa571f0a0cce3",
+        "size_in_bytes": 84
+      },
+      {
+        "_path": "Lib/site-packages/brotlipy-0.7.0-py3.8.egg-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "82c4b9e07ae13b766f785c5e32b2a8ffba87e129b84db43b8c62d5044a89e0d2",
+        "sha256_in_prefix": "82c4b9e07ae13b766f785c5e32b2a8ffba87e129b84db43b8c62d5044a89e0d2",
+        "size_in_bytes": 15
+      },
+      {
+        "_path": "Lib/site-packages/pycparser/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "bdcf540ffaeb903b55f6c2c481c493b6159bc3a90294209c40ea630fbf415c40",
+        "sha256_in_prefix": "bdcf540ffaeb903b55f6c2c481c493b6159bc3a90294209c40ea630fbf415c40",
+        "size_in_bytes": 2487
+      },
+      {
+        "_path": "Lib/site-packages/pycparser/__pycache__/ast_transforms.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "eddb37b90effff56072b020e976e3113704426053ae33ef0606a7f25087f5751",
+        "sha256_in_prefix": "eddb37b90effff56072b020e976e3113704426053ae33ef0606a7f25087f5751",
+        "size_in_bytes": 2538
+      },
+      {
+        "_path": "Lib/site-packages/pycparser/__pycache__/c_ast.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "cf89c021262084c0b5b3b76e17a84be0c31ad453bf7325d655b9727eed678a88",
+        "sha256_in_prefix": "cf89c021262084c0b5b3b76e17a84be0c31ad453bf7325d655b9727eed678a88",
+        "size_in_bytes": 35294
+      },
+      {
+        "_path": "Lib/site-packages/pycparser/__pycache__/c_lexer.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "ed0522b9623eee26981256068443aec8f1c3c5a9bde78067dbda3a0e0b07ec90",
+        "sha256_in_prefix": "ed0522b9623eee26981256068443aec8f1c3c5a9bde78067dbda3a0e0b07ec90",
+        "size_in_bytes": 11888
+      },
+      {
+        "_path": "Lib/site-packages/pycparser/__pycache__/c_parser.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "85892c2095d19903ac9a79afd35d0dec0d344edef695eae71a9c39a8c368063b",
+        "sha256_in_prefix": "85892c2095d19903ac9a79afd35d0dec0d344edef695eae71a9c39a8c368063b",
+        "size_in_bytes": 60625
+      },
+      {
+        "_path": "Lib/site-packages/pycparser/__pycache__/lextab.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "19968f780d624175f55c74566ef9456f41c9c4046ff67a20e8f321e23be21684",
+        "sha256_in_prefix": "19968f780d624175f55c74566ef9456f41c9c4046ff67a20e8f321e23be21684",
+        "size_in_bytes": 5635
+      },
+      {
+        "_path": "Lib/site-packages/pycparser/__pycache__/plyparser.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "d2453ba70025fd1fc64289000cde12e38468020c36c0a087da072740f82c0cd9",
+        "sha256_in_prefix": "d2453ba70025fd1fc64289000cde12e38468020c36c0a087da072740f82c0cd9",
+        "size_in_bytes": 4673
+      },
+      {
+        "_path": "Lib/site-packages/pycparser/__pycache__/yacctab.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "ea458db566731fbf6b8fb24e19bca3ffad4add36a78d4812b7172afcbeb58bed",
+        "sha256_in_prefix": "ea458db566731fbf6b8fb24e19bca3ffad4add36a78d4812b7172afcbeb58bed",
+        "size_in_bytes": 139367
+      },
+      {
+        "_path": "Lib/site-packages/pycparser/ply/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "479f2e7e0754b6c91580eb30340c2ff5889cdbcee564664227199873ab245e18",
+        "sha256_in_prefix": "479f2e7e0754b6c91580eb30340c2ff5889cdbcee564664227199873ab245e18",
+        "size_in_bytes": 219
+      },
+      {
+        "_path": "Lib/site-packages/pycparser/ply/__pycache__/lex.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "9289e7546b50082e96bc443c51daf12ba3561938992055a8b968a30f21f09c19",
+        "sha256_in_prefix": "9289e7546b50082e96bc443c51daf12ba3561938992055a8b968a30f21f09c19",
+        "size_in_bytes": 21419
+      },
+      {
+        "_path": "Lib/site-packages/pycparser/ply/__pycache__/yacc.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "31ef6491d5398e56ce82ea4c99e4a73473171d1682d4fa2600feac18c846c119",
+        "sha256_in_prefix": "31ef6491d5398e56ce82ea4c99e4a73473171d1682d4fa2600feac18c846c119",
+        "size_in_bytes": 53060
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "bc53fd42d2c34088688d2eb9fbce5fb87cd58ffeaaf1291dbe95e1c39329a29d",
+  "size": 406285,
+  "subdir": "win-32",
+  "timestamp": 1605539705976,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-32/brotlipy-0.7.0-py38hc431981_1003.conda",
+  "version": "0.7.0"
+}

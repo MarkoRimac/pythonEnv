@@ -1,0 +1,11 @@
+prefix=C:/ProgramData/Anaconda2/envs/YAFS38/Library
+exec_prefix=C:/ProgramData/Anaconda2/envs/YAFS38/Library
+libdir=C:/ProgramData/Anaconda2/envs/YAFS38/Library/lib
+includedir=C:/ProgramData/Anaconda2/envs/YAFS38/Library/include
+
+Name: libtiff
+Description:  Tag Image File Format (TIFF) library.
+Version: 4.1.0
+Libs: -LC:/ProgramData/Anaconda2/envs/YAFS38/Library/lib -ltiff
+Libs.private: 
+Cflags: -IC:/ProgramData/Anaconda2/envs/YAFS38/Library/include

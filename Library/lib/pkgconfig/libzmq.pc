@@ -1,0 +1,12 @@
+prefix=C:/ProgramData/Anaconda2/envs/YAFS38/Library
+exec_prefix=C:/ProgramData/Anaconda2/envs/YAFS38/Library
+libdir=C:/ProgramData/Anaconda2/envs/YAFS38/Library/lib
+includedir=C:/ProgramData/Anaconda2/envs/YAFS38/Library/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.3.2
+Libs: -L${libdir} -lzmq
+Libs.private: -lstdc++ 
+Requires.private: 
+Cflags: -I${includedir} 

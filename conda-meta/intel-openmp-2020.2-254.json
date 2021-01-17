@@ -1,0 +1,61 @@
+{
+  "build": "254",
+  "build_number": 254,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-32",
+  "constrains": [
+    "mkl >=2020.2"
+  ],
+  "depends": [],
+  "extracted_package_dir": "C:\\Users\\Rimac\\.conda\\pkgs\\intel-openmp-2020.2-254",
+  "features": "",
+  "files": [
+    "Library/bin/libiomp5md.dll",
+    "Library/bin/libiomp5md.pdb",
+    "Library/bin/libiompstubs5md.dll"
+  ],
+  "fn": "intel-openmp-2020.2-254.conda",
+  "legacy_bz2_md5": "3ad3ecf6ae018e84fb83a2f340daf94e",
+  "license": "LicenseRef-ProprietaryIntel",
+  "license_family": "Proprietary",
+  "link": {
+    "source": "C:\\Users\\Rimac\\.conda\\pkgs\\intel-openmp-2020.2-254",
+    "type": 1
+  },
+  "md5": "6de156d6ab6b9f4597324dc2b00a11a6",
+  "name": "intel-openmp",
+  "package_tarball_full_path": "C:\\Users\\Rimac\\.conda\\pkgs\\intel-openmp-2020.2-254.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/libiomp5md.dll",
+        "path_type": "hardlink",
+        "sha256": "a3efd1e485496c554ff0b169acdca6dd33c76c107e34e678ac8c68fba79d3075",
+        "sha256_in_prefix": "a3efd1e485496c554ff0b169acdca6dd33c76c107e34e678ac8c68fba79d3075",
+        "size_in_bytes": 1741680
+      },
+      {
+        "_path": "Library/bin/libiomp5md.pdb",
+        "path_type": "hardlink",
+        "sha256": "af37e8b5b5bb09933cf398af2dd5be7ea4503d22d590f29d3bb374aab6fe2b03",
+        "sha256_in_prefix": "af37e8b5b5bb09933cf398af2dd5be7ea4503d22d590f29d3bb374aab6fe2b03",
+        "size_in_bytes": 5401600
+      },
+      {
+        "_path": "Library/bin/libiompstubs5md.dll",
+        "path_type": "hardlink",
+        "sha256": "6dfbed23eec6545512c9e45f7c768627c2a5dcabca1b22859811e16a23bd90c5",
+        "sha256_in_prefix": "6dfbed23eec6545512c9e45f7c768627c2a5dcabca1b22859811e16a23bd90c5",
+        "size_in_bytes": 97648
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "dfe55aeec9deff37f6f8734fc0d6d5fa43329ec4668d8d9a1c9d48a29dbc33b0",
+  "size": 1584307,
+  "subdir": "win-32",
+  "timestamp": 1598380272496,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-32/intel-openmp-2020.2-254.conda",
+  "version": "2020.2"
+}

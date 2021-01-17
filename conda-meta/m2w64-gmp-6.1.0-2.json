@@ -1,0 +1,122 @@
+{
+  "build": "2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/msys2/win-32",
+  "constrains": [],
+  "depends": [
+    "msys2-conda-epoch >=20160418"
+  ],
+  "extracted_package_dir": "C:\\ProgramData\\Anaconda2\\pkgs\\m2w64-gmp-6.1.0-2",
+  "features": "",
+  "files": [
+    "Library/mingw-w64/bin/libgmp-10.dll",
+    "Library/mingw-w64/bin/libgmpxx-4.dll",
+    "Library/mingw-w64/include/gmp.h",
+    "Library/mingw-w64/include/gmpxx.h",
+    "Library/mingw-w64/lib/libgmp.a",
+    "Library/mingw-w64/lib/libgmp.dll.a",
+    "Library/mingw-w64/lib/libgmpxx.a",
+    "Library/mingw-w64/lib/libgmpxx.dll.a",
+    "Library/mingw-w64/share/info/gmp.info-1.gz",
+    "Library/mingw-w64/share/info/gmp.info-2.gz",
+    "Library/mingw-w64/share/info/gmp.info.gz"
+  ],
+  "fn": "m2w64-gmp-6.1.0-2.tar.bz2",
+  "license": "LGPL3",
+  "link": {
+    "source": "C:\\ProgramData\\Anaconda2\\pkgs\\m2w64-gmp-6.1.0-2",
+    "type": 1
+  },
+  "md5": "6a5ece5850fcb0bf36c765dc4de0217c",
+  "name": "m2w64-gmp",
+  "package_tarball_full_path": "C:\\ProgramData\\Anaconda2\\pkgs\\m2w64-gmp-6.1.0-2.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/mingw-w64/bin/libgmp-10.dll",
+        "path_type": "hardlink",
+        "sha256": "6b80fea16b2f89c74675e7513502d6a7fb030465ab543050b6a8acd3650e464a",
+        "sha256_in_prefix": "6b80fea16b2f89c74675e7513502d6a7fb030465ab543050b6a8acd3650e464a",
+        "size_in_bytes": 520716
+      },
+      {
+        "_path": "Library/mingw-w64/bin/libgmpxx-4.dll",
+        "path_type": "hardlink",
+        "sha256": "1c00fc99e2eb09341e756f0e0a46b8efd3c1632d2dde35d75f71d0623b92abe2",
+        "sha256_in_prefix": "1c00fc99e2eb09341e756f0e0a46b8efd3c1632d2dde35d75f71d0623b92abe2",
+        "size_in_bytes": 33549
+      },
+      {
+        "_path": "Library/mingw-w64/include/gmp.h",
+        "path_type": "hardlink",
+        "sha256": "c70f4f7047ac58ec484f49baa0d9afe4c625b1ff1d48098903b4ec775b7a87c8",
+        "sha256_in_prefix": "c70f4f7047ac58ec484f49baa0d9afe4c625b1ff1d48098903b4ec775b7a87c8",
+        "size_in_bytes": 83894
+      },
+      {
+        "_path": "Library/mingw-w64/include/gmpxx.h",
+        "path_type": "hardlink",
+        "sha256": "7b170650ace8ab726824accacc205b31e7d99b255d4787c47d6d0fa5c6b73eac",
+        "sha256_in_prefix": "7b170650ace8ab726824accacc205b31e7d99b255d4787c47d6d0fa5c6b73eac",
+        "size_in_bytes": 116607
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libgmp.a",
+        "path_type": "hardlink",
+        "sha256": "774f7af18da092288c2c90816bf082f63b4b74d88752167b0353bf61903a3ca2",
+        "sha256_in_prefix": "774f7af18da092288c2c90816bf082f63b4b74d88752167b0353bf61903a3ca2",
+        "size_in_bytes": 876354
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libgmp.dll.a",
+        "path_type": "hardlink",
+        "sha256": "3e05d5c432aa9caa63ab3acd961b944d6a97cfe6d0453bcb8d6bced1c13df16a",
+        "sha256_in_prefix": "3e05d5c432aa9caa63ab3acd961b944d6a97cfe6d0453bcb8d6bced1c13df16a",
+        "size_in_bytes": 386552
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libgmpxx.a",
+        "path_type": "hardlink",
+        "sha256": "cb143a0805e140fb6b960b531e3e88591e99a94448435574152c34d52ed69f3d",
+        "sha256_in_prefix": "cb143a0805e140fb6b960b531e3e88591e99a94448435574152c34d52ed69f3d",
+        "size_in_bytes": 37358
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libgmpxx.dll.a",
+        "path_type": "hardlink",
+        "sha256": "2923986e13cee586a2ac222fce2a82c864f17da7ea8d405fd9f2e8905213b626",
+        "sha256_in_prefix": "2923986e13cee586a2ac222fce2a82c864f17da7ea8d405fd9f2e8905213b626",
+        "size_in_bytes": 73186
+      },
+      {
+        "_path": "Library/mingw-w64/share/info/gmp.info-1.gz",
+        "path_type": "hardlink",
+        "sha256": "510e02ce845cdc502cad5e2d76c16b3070761bb6cf5e30c419f40b5a4e3c01c8",
+        "sha256_in_prefix": "510e02ce845cdc502cad5e2d76c16b3070761bb6cf5e30c419f40b5a4e3c01c8",
+        "size_in_bytes": 84833
+      },
+      {
+        "_path": "Library/mingw-w64/share/info/gmp.info-2.gz",
+        "path_type": "hardlink",
+        "sha256": "8845927fc6f9c323e1c887d4329ebcd95001307211606a027e50a3b46f1e4810",
+        "sha256_in_prefix": "8845927fc6f9c323e1c887d4329ebcd95001307211606a027e50a3b46f1e4810",
+        "size_in_bytes": 48549
+      },
+      {
+        "_path": "Library/mingw-w64/share/info/gmp.info.gz",
+        "path_type": "hardlink",
+        "sha256": "75fb7c1d3777ec35e4596b473701d8a552485a008d1f05994b1e55a572a3707d",
+        "sha256_in_prefix": "75fb7c1d3777ec35e4596b473701d8a552485a008d1f05994b1e55a572a3707d",
+        "size_in_bytes": 2367
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "27e2f9a180fd6de3c9219b6327800f8d7bad4f6af39bb265760acfe4f4dfc8e1",
+  "size": 654350,
+  "subdir": "win-32",
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/msys2/win-32/m2w64-gmp-6.1.0-2.tar.bz2",
+  "version": "6.1.0"
+}

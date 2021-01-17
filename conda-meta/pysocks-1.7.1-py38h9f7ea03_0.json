@@ -1,0 +1,231 @@
+{
+  "build": "py38h9f7ea03_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-32",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0",
+    "win_inet_pton"
+  ],
+  "extracted_package_dir": "C:\\Users\\Rimac\\.conda\\pkgs\\pysocks-1.7.1-py38h9f7ea03_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/PySocks-1.7.1.dist-info/INSTALLER",
+    "Lib/site-packages/PySocks-1.7.1.dist-info/LICENSE",
+    "Lib/site-packages/PySocks-1.7.1.dist-info/METADATA",
+    "Lib/site-packages/PySocks-1.7.1.dist-info/RECORD",
+    "Lib/site-packages/PySocks-1.7.1.dist-info/REQUESTED",
+    "Lib/site-packages/PySocks-1.7.1.dist-info/WHEEL",
+    "Lib/site-packages/PySocks-1.7.1.dist-info/direct_url.json",
+    "Lib/site-packages/PySocks-1.7.1.dist-info/top_level.txt",
+    "Lib/site-packages/__pycache__/socks.cpython-38.pyc",
+    "Lib/site-packages/__pycache__/sockshandler.cpython-38.pyc",
+    "Lib/site-packages/socks.py",
+    "Lib/site-packages/sockshandler.py",
+    "Lib/site-packages/wheel/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/wheel/__pycache__/bdist_wheel.cpython-38.pyc",
+    "Lib/site-packages/wheel/__pycache__/macosx_libfile.cpython-38.pyc",
+    "Lib/site-packages/wheel/__pycache__/metadata.cpython-38.pyc",
+    "Lib/site-packages/wheel/__pycache__/pkginfo.cpython-38.pyc",
+    "Lib/site-packages/wheel/__pycache__/util.cpython-38.pyc",
+    "Lib/site-packages/wheel/__pycache__/wheelfile.cpython-38.pyc",
+    "Lib/site-packages/wheel/cli/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/wheel/vendored/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/wheel/vendored/packaging/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/wheel/vendored/packaging/__pycache__/_typing.cpython-38.pyc",
+    "Lib/site-packages/wheel/vendored/packaging/__pycache__/tags.cpython-38.pyc"
+  ],
+  "fn": "pysocks-1.7.1-py38h9f7ea03_0.conda",
+  "legacy_bz2_md5": "a5bf371df7357b16e8a171261c54ee32",
+  "legacy_bz2_size": 54373,
+  "license": "BSD 3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\Rimac\\.conda\\pkgs\\pysocks-1.7.1-py38h9f7ea03_0",
+    "type": 1
+  },
+  "md5": "dca3d7fa01a4c5f8081d9d1cb755a4b2",
+  "name": "pysocks",
+  "package_tarball_full_path": "C:\\Users\\Rimac\\.conda\\pkgs\\pysocks-1.7.1-py38h9f7ea03_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/PySocks-1.7.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/PySocks-1.7.1.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "7027e214e014eb78b7adcc1ceda5aca713a79fc4f6a0c52c9da5b3e707e6ffe9",
+        "sha256_in_prefix": "7027e214e014eb78b7adcc1ceda5aca713a79fc4f6a0c52c9da5b3e707e6ffe9",
+        "size_in_bytes": 1401
+      },
+      {
+        "_path": "Lib/site-packages/PySocks-1.7.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "cdb40c8b38cf38e3f80e1122117db85d78cdad8b88c45f54194a4dd2e14307a6",
+        "sha256_in_prefix": "cdb40c8b38cf38e3f80e1122117db85d78cdad8b88c45f54194a4dd2e14307a6",
+        "size_in_bytes": 13235
+      },
+      {
+        "_path": "Lib/site-packages/PySocks-1.7.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "a094728f374b6139f8d173a9c1fc662b9acd744fd28abc5911be442cf3af3f5d",
+        "sha256_in_prefix": "a094728f374b6139f8d173a9c1fc662b9acd744fd28abc5911be442cf3af3f5d",
+        "size_in_bytes": 882
+      },
+      {
+        "_path": "Lib/site-packages/PySocks-1.7.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/PySocks-1.7.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "0f55a1d789160f13e7accfb9b7fe94081f94b9036b10e0ed45adef1783acbd06",
+        "sha256_in_prefix": "0f55a1d789160f13e7accfb9b7fe94081f94b9036b10e0ed45adef1783acbd06",
+        "size_in_bytes": 97
+      },
+      {
+        "_path": "Lib/site-packages/PySocks-1.7.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "368a73bbc42de6ebd3c024f01d17a8ef35d977297c4abb1fa1ba8b856f3e6cb5",
+        "sha256_in_prefix": "368a73bbc42de6ebd3c024f01d17a8ef35d977297c4abb1fa1ba8b856f3e6cb5",
+        "size_in_bytes": 67
+      },
+      {
+        "_path": "Lib/site-packages/PySocks-1.7.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "4ca48e21f0850682bd118f050586d8a82dcf59ddfef86d79a61f67f3e4073c39",
+        "sha256_in_prefix": "4ca48e21f0850682bd118f050586d8a82dcf59ddfef86d79a61f67f3e4073c39",
+        "size_in_bytes": 19
+      },
+      {
+        "_path": "Lib/site-packages/__pycache__/socks.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "e0f538759dc2ef3bf947e3e3dc2f1e58f2223b72d446ed3e19fa67e07275dd31",
+        "sha256_in_prefix": "e0f538759dc2ef3bf947e3e3dc2f1e58f2223b72d446ed3e19fa67e07275dd31",
+        "size_in_bytes": 21229
+      },
+      {
+        "_path": "Lib/site-packages/__pycache__/sockshandler.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "cc434cb0763cb85cfa20d99c8905741e2484fe860fce5b387bc1ba903ed1ea35",
+        "sha256_in_prefix": "cc434cb0763cb85cfa20d99c8905741e2484fe860fce5b387bc1ba903ed1ea35",
+        "size_in_bytes": 4210
+      },
+      {
+        "_path": "Lib/site-packages/socks.py",
+        "path_type": "hardlink",
+        "sha256": "c4e627dbbb7d206adb4c1cd6b1452e3dad1806ea6582253293390e0795798856",
+        "sha256_in_prefix": "c4e627dbbb7d206adb4c1cd6b1452e3dad1806ea6582253293390e0795798856",
+        "size_in_bytes": 31086
+      },
+      {
+        "_path": "Lib/site-packages/sockshandler.py",
+        "path_type": "hardlink",
+        "sha256": "d926068fea70b7592380ba19026c9e6845c27990d64667d54bf406ea412b1ad6",
+        "sha256_in_prefix": "d926068fea70b7592380ba19026c9e6845c27990d64667d54bf406ea412b1ad6",
+        "size_in_bytes": 3966
+      },
+      {
+        "_path": "Lib/site-packages/wheel/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "2aab06a1057d4dfdca16cfb836bb06edaed92d1ddd16ffb1cf67c1487f7376ea",
+        "sha256_in_prefix": "2aab06a1057d4dfdca16cfb836bb06edaed92d1ddd16ffb1cf67c1487f7376ea",
+        "size_in_bytes": 183
+      },
+      {
+        "_path": "Lib/site-packages/wheel/__pycache__/bdist_wheel.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "de5029fcb1b16123d71b0f2c60e19e386f15786a98a1b0eb407f51502ad465d4",
+        "sha256_in_prefix": "de5029fcb1b16123d71b0f2c60e19e386f15786a98a1b0eb407f51502ad465d4",
+        "size_in_bytes": 12762
+      },
+      {
+        "_path": "Lib/site-packages/wheel/__pycache__/macosx_libfile.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "1ff7c3e49e20fdc4b6706e7c5bc4b0fa70575097ad84ad1098c40b0971603f62",
+        "sha256_in_prefix": "1ff7c3e49e20fdc4b6706e7c5bc4b0fa70575097ad84ad1098c40b0971603f62",
+        "size_in_bytes": 9664
+      },
+      {
+        "_path": "Lib/site-packages/wheel/__pycache__/metadata.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "bed22e0d1c2404b14f14bbaa3a4a1b9feec39055a1b8a11efe4c3e0f6b10bbd0",
+        "sha256_in_prefix": "bed22e0d1c2404b14f14bbaa3a4a1b9feec39055a1b8a11efe4c3e0f6b10bbd0",
+        "size_in_bytes": 3598
+      },
+      {
+        "_path": "Lib/site-packages/wheel/__pycache__/pkginfo.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "8590e183fdaeb11f7abd49a20ad6588f8d668f788cf2422bb6084a202fd30c00",
+        "sha256_in_prefix": "8590e183fdaeb11f7abd49a20ad6588f8d668f788cf2422bb6084a202fd30c00",
+        "size_in_bytes": 1544
+      },
+      {
+        "_path": "Lib/site-packages/wheel/__pycache__/util.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "e7fe7f42c4ffcf984a028c48ac4988351500f90daa7bef38000d0a79c4840bba",
+        "sha256_in_prefix": "e7fe7f42c4ffcf984a028c48ac4988351500f90daa7bef38000d0a79c4840bba",
+        "size_in_bytes": 1297
+      },
+      {
+        "_path": "Lib/site-packages/wheel/__pycache__/wheelfile.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "171ffcdc9d317af99ec5427d1b608d9157df84268d1e64b697d4ac53bedc9501",
+        "sha256_in_prefix": "171ffcdc9d317af99ec5427d1b608d9157df84268d1e64b697d4ac53bedc9501",
+        "size_in_bytes": 5533
+      },
+      {
+        "_path": "Lib/site-packages/wheel/cli/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "2489f080055e063b49d78c1d7a4ce2b97dd97807dc04457af2fba9fe19cdd161",
+        "sha256_in_prefix": "2489f080055e063b49d78c1d7a4ce2b97dd97807dc04457af2fba9fe19cdd161",
+        "size_in_bytes": 3067
+      },
+      {
+        "_path": "Lib/site-packages/wheel/vendored/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "d544ba94c177e47fb4da86521b64441d7afab4c18f808079a8ece9b2fb822e2b",
+        "sha256_in_prefix": "d544ba94c177e47fb4da86521b64441d7afab4c18f808079a8ece9b2fb822e2b",
+        "size_in_bytes": 170
+      },
+      {
+        "_path": "Lib/site-packages/wheel/vendored/packaging/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "beefcae4531dd1da739e152cf4c55b1ed3e60fdb68bcc95abf68191ccb7a1571",
+        "sha256_in_prefix": "beefcae4531dd1da739e152cf4c55b1ed3e60fdb68bcc95abf68191ccb7a1571",
+        "size_in_bytes": 180
+      },
+      {
+        "_path": "Lib/site-packages/wheel/vendored/packaging/__pycache__/_typing.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "0559f699f425f212f202dd795bb9dc9802a35b66721093f1f2d307823283987f",
+        "sha256_in_prefix": "0559f699f425f212f202dd795bb9dc9802a35b66721093f1f2d307823283987f",
+        "size_in_bytes": 1475
+      },
+      {
+        "_path": "Lib/site-packages/wheel/vendored/packaging/__pycache__/tags.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "b3151a57e5d2d9f8cb097bb7b8543fbf0a203c4e0e0587dc9e21e7a5d5b7220e",
+        "sha256_in_prefix": "b3151a57e5d2d9f8cb097bb7b8543fbf0a203c4e0e0587dc9e21e7a5d5b7220e",
+        "size_in_bytes": 17245
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "aac566be354c275498a66258cf6e8a87052c2b454b7d37d13ddc07ff3cb6984d",
+  "size": 56478,
+  "subdir": "win-32",
+  "timestamp": 1605305967382,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-32/pysocks-1.7.1-py38h9f7ea03_0.conda",
+  "version": "1.7.1"
+}

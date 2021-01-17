@@ -1,0 +1,12 @@
+prefix=C:/ProgramData/Anaconda2/envs/YAFS38/Library
+exec_prefix=C:/ProgramData/Anaconda2/envs/YAFS38/Library
+libdir=C:/ProgramData/Anaconda2/envs/YAFS38/Library/lib
+includedir=C:/ProgramData/Anaconda2/envs/YAFS38/Library/include/libpng16
+
+Name: libpng
+Description: Loads and saves PNG files
+Version: 1.6.37
+Requires: zlib
+Libs: -L${libdir} -lpng16
+Libs.private: -lz -lm
+Cflags: -I${includedir}

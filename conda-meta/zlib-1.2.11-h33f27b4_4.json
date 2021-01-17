@@ -1,0 +1,112 @@
+{
+  "build": "h33f27b4_4",
+  "build_number": 4,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-32",
+  "constrains": [],
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Rimac\\.conda\\pkgs\\zlib-1.2.11-h33f27b4_4",
+  "features": "",
+  "files": [
+    "Library/bin/zlib.dll",
+    "Library/include/zconf.h",
+    "Library/include/zlib.h",
+    "Library/lib/z.lib",
+    "Library/lib/zdll.lib",
+    "Library/lib/zlib.lib",
+    "Library/lib/zlibstatic.lib",
+    "Library/share/man/man3/zlib.3",
+    "Library/share/pkgconfig/zlib.pc"
+  ],
+  "fn": "zlib-1.2.11-h33f27b4_4.conda",
+  "legacy_bz2_md5": "63cb4cae3231ad7757d41dca944baf6a",
+  "license": "zlib",
+  "license_family": "Other",
+  "link": {
+    "source": "C:\\Users\\Rimac\\.conda\\pkgs\\zlib-1.2.11-h33f27b4_4",
+    "type": 1
+  },
+  "md5": "19ece9c36b97deb73b7b052e434b2e06",
+  "name": "zlib",
+  "package_tarball_full_path": "C:\\Users\\Rimac\\.conda\\pkgs\\zlib-1.2.11-h33f27b4_4.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/zlib.dll",
+        "path_type": "hardlink",
+        "sha256": "bcf677b9bb33254b5ee72e27743d1ec61b9fcc33b3aad127feea77fd8efef3f4",
+        "sha256_in_prefix": "bcf677b9bb33254b5ee72e27743d1ec61b9fcc33b3aad127feea77fd8efef3f4",
+        "size_in_bytes": 72704
+      },
+      {
+        "_path": "Library/include/zconf.h",
+        "path_type": "hardlink",
+        "sha256": "7f4e7f02c4c1b7ef830a8b4331e1ba04f34e97f2c0dcdd81f967ff16fd5ee6d0",
+        "sha256_in_prefix": "7f4e7f02c4c1b7ef830a8b4331e1ba04f34e97f2c0dcdd81f967ff16fd5ee6d0",
+        "size_in_bytes": 16885
+      },
+      {
+        "_path": "Library/include/zlib.h",
+        "path_type": "hardlink",
+        "sha256": "4ddc82b4af931ab55f44d977bde81bfbc4151b5dcdccc03142831a301b5ec3c8",
+        "sha256_in_prefix": "4ddc82b4af931ab55f44d977bde81bfbc4151b5dcdccc03142831a301b5ec3c8",
+        "size_in_bytes": 96239
+      },
+      {
+        "_path": "Library/lib/z.lib",
+        "path_type": "hardlink",
+        "sha256": "c2c3e80f3324950445432bf012fc7b5b89b62c600d63abc48b28ceb3e4cda50a",
+        "sha256_in_prefix": "c2c3e80f3324950445432bf012fc7b5b89b62c600d63abc48b28ceb3e4cda50a",
+        "size_in_bytes": 16652
+      },
+      {
+        "_path": "Library/lib/zdll.lib",
+        "path_type": "hardlink",
+        "sha256": "c2c3e80f3324950445432bf012fc7b5b89b62c600d63abc48b28ceb3e4cda50a",
+        "sha256_in_prefix": "c2c3e80f3324950445432bf012fc7b5b89b62c600d63abc48b28ceb3e4cda50a",
+        "size_in_bytes": 16652
+      },
+      {
+        "_path": "Library/lib/zlib.lib",
+        "path_type": "hardlink",
+        "sha256": "c2c3e80f3324950445432bf012fc7b5b89b62c600d63abc48b28ceb3e4cda50a",
+        "sha256_in_prefix": "c2c3e80f3324950445432bf012fc7b5b89b62c600d63abc48b28ceb3e4cda50a",
+        "size_in_bytes": 16652
+      },
+      {
+        "_path": "Library/lib/zlibstatic.lib",
+        "path_type": "hardlink",
+        "sha256": "57f5c1b62b0d43927a18d6f437f69c215ec14b4b0dbb1f4bd48519769c77188b",
+        "sha256_in_prefix": "57f5c1b62b0d43927a18d6f437f69c215ec14b4b0dbb1f4bd48519769c77188b",
+        "size_in_bytes": 135632
+      },
+      {
+        "_path": "Library/share/man/man3/zlib.3",
+        "path_type": "hardlink",
+        "sha256": "5abef003e545566e5599e5ab2e7528e978be59d54546b19d763d062f7a69bac7",
+        "sha256_in_prefix": "5abef003e545566e5599e5ab2e7528e978be59d54546b19d763d062f7a69bac7",
+        "size_in_bytes": 4477
+      },
+      {
+        "_path": "Library/share/pkgconfig/zlib.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:/ci/zlib_1587205860687/_h_env",
+        "sha256": "3db261844e5b9b7d799bcd118f096c94d920c6c885439e0f660dbf0310b2ea5f",
+        "sha256_in_prefix": "f227779a310651484675bb0a0da98bba6a05588052b6f90d05600704aa67c041",
+        "size_in_bytes": 420
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "12c0848f15accbb9c18056d4c49e2868e68162a21132d0c6137c8b6b7ac85a6b",
+  "size": 103766,
+  "subdir": "win-32",
+  "timestamp": 1587205959428,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-32/zlib-1.2.11-h33f27b4_4.conda",
+  "version": "1.2.11"
+}

@@ -1,0 +1,126 @@
+{
+  "build": "7",
+  "build_number": 7,
+  "channel": "https://repo.anaconda.com/pkgs/msys2/win-32",
+  "constrains": [],
+  "depends": [
+    "m2w64-gcc-libgfortran",
+    "m2w64-gcc-libs-core",
+    "m2w64-gmp",
+    "m2w64-libwinpthread-git",
+    "msys2-conda-epoch >=20160418"
+  ],
+  "extracted_package_dir": "C:\\ProgramData\\Anaconda2\\pkgs\\m2w64-gcc-libs-5.3.0-7",
+  "features": "",
+  "files": [
+    "Library/mingw-w64/bin/libatomic-1.dll",
+    "Library/mingw-w64/bin/libgomp-1.dll",
+    "Library/mingw-w64/bin/libgomp-plugin-host_nonshm-1.dll",
+    "Library/mingw-w64/bin/libssp-0.dll",
+    "Library/mingw-w64/bin/libstdc++-6.dll",
+    "Library/mingw-w64/bin/libvtv-0.dll",
+    "Library/mingw-w64/bin/libvtv_stubs-0.dll",
+    "Library/mingw-w64/share/licenses/gcc-libs/COPYING.LIB",
+    "Library/mingw-w64/share/licenses/gcc-libs/COPYING.RUNTIME",
+    "Library/mingw-w64/share/licenses/gcc-libs/COPYING3",
+    "Library/mingw-w64/share/licenses/gcc-libs/README"
+  ],
+  "fn": "m2w64-gcc-libs-5.3.0-7.tar.bz2",
+  "license": "GPL3+, partial:GCCRLE, partial:LGPL2+",
+  "link": {
+    "source": "C:\\ProgramData\\Anaconda2\\pkgs\\m2w64-gcc-libs-5.3.0-7",
+    "type": 1
+  },
+  "md5": "9796d390ffb00761abe664f24e7176d4",
+  "name": "m2w64-gcc-libs",
+  "package_tarball_full_path": "C:\\ProgramData\\Anaconda2\\pkgs\\m2w64-gcc-libs-5.3.0-7.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/mingw-w64/bin/libatomic-1.dll",
+        "path_type": "hardlink",
+        "sha256": "4dbf9659f4361521c9907a128419713bc77fd443f2879071432a40a0a46b9587",
+        "sha256_in_prefix": "4dbf9659f4361521c9907a128419713bc77fd443f2879071432a40a0a46b9587",
+        "size_in_bytes": 38003
+      },
+      {
+        "_path": "Library/mingw-w64/bin/libgomp-1.dll",
+        "path_type": "hardlink",
+        "sha256": "ed5ae9daaf385ab3dce9f05b80d070ead830cde7d31717d1302611c5bf3fc88b",
+        "sha256_in_prefix": "ed5ae9daaf385ab3dce9f05b80d070ead830cde7d31717d1302611c5bf3fc88b",
+        "size_in_bytes": 124879
+      },
+      {
+        "_path": "Library/mingw-w64/bin/libgomp-plugin-host_nonshm-1.dll",
+        "path_type": "hardlink",
+        "sha256": "9eaa6088ad48b5b7499abef6eb5e6e9026fee9c3954bf10fbf98c7c7f235059e",
+        "sha256_in_prefix": "9eaa6088ad48b5b7499abef6eb5e6e9026fee9c3954bf10fbf98c7c7f235059e",
+        "size_in_bytes": 19071
+      },
+      {
+        "_path": "Library/mingw-w64/bin/libssp-0.dll",
+        "path_type": "hardlink",
+        "sha256": "0edd632a4a748412ea6ca234c0443947dbe8d70389371cc8cbba601cefe6b535",
+        "sha256_in_prefix": "0edd632a4a748412ea6ca234c0443947dbe8d70389371cc8cbba601cefe6b535",
+        "size_in_bytes": 20895
+      },
+      {
+        "_path": "Library/mingw-w64/bin/libstdc++-6.dll",
+        "path_type": "hardlink",
+        "sha256": "d2a364b9716a95c58079d981a7a567768b127d9916302d999b5deb6c0fbf8883",
+        "sha256_in_prefix": "d2a364b9716a95c58079d981a7a567768b127d9916302d999b5deb6c0fbf8883",
+        "size_in_bytes": 1541955
+      },
+      {
+        "_path": "Library/mingw-w64/bin/libvtv-0.dll",
+        "path_type": "hardlink",
+        "sha256": "cfe546978524b9ad9210df88ec5a955c0c6e9185b7609bb930f710a925b7481f",
+        "sha256_in_prefix": "cfe546978524b9ad9210df88ec5a955c0c6e9185b7609bb930f710a925b7481f",
+        "size_in_bytes": 17279
+      },
+      {
+        "_path": "Library/mingw-w64/bin/libvtv_stubs-0.dll",
+        "path_type": "hardlink",
+        "sha256": "3ee4df596185378f05c908992dab44e8b96d78af4f3d5de3ad3af80feae56891",
+        "sha256_in_prefix": "3ee4df596185378f05c908992dab44e8b96d78af4f3d5de3ad3af80feae56891",
+        "size_in_bytes": 17279
+      },
+      {
+        "_path": "Library/mingw-w64/share/licenses/gcc-libs/COPYING.LIB",
+        "path_type": "hardlink",
+        "sha256": "a9bdde5616ecdd1e980b44f360600ee8783b1f99b8cc83a2beb163a0a390e861",
+        "sha256_in_prefix": "a9bdde5616ecdd1e980b44f360600ee8783b1f99b8cc83a2beb163a0a390e861",
+        "size_in_bytes": 26527
+      },
+      {
+        "_path": "Library/mingw-w64/share/licenses/gcc-libs/COPYING.RUNTIME",
+        "path_type": "hardlink",
+        "sha256": "9d6b43ce4d8de0c878bf16b54d8e7a10d9bd42b75178153e3af6a815bdc90f74",
+        "sha256_in_prefix": "9d6b43ce4d8de0c878bf16b54d8e7a10d9bd42b75178153e3af6a815bdc90f74",
+        "size_in_bytes": 3324
+      },
+      {
+        "_path": "Library/mingw-w64/share/licenses/gcc-libs/COPYING3",
+        "path_type": "hardlink",
+        "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+        "sha256_in_prefix": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+        "size_in_bytes": 35147
+      },
+      {
+        "_path": "Library/mingw-w64/share/licenses/gcc-libs/README",
+        "path_type": "hardlink",
+        "sha256": "2bd5d7a51c0cf75fb7a20fd15b3afef8874ebc32535bb8e2ddb1cf400fe26407",
+        "sha256_in_prefix": "2bd5d7a51c0cf75fb7a20fd15b3afef8874ebc32535bb8e2ddb1cf400fe26407",
+        "size_in_bytes": 227
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "e9f87cbc952a1f9f213b55899235c7fcad72d50dbf7bf96ee9fe62b993e07733",
+  "size": 544658,
+  "subdir": "win-32",
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/msys2/win-32/m2w64-gcc-libs-5.3.0-7.tar.bz2",
+  "version": "5.3.0"
+}

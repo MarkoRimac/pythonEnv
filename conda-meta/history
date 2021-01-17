@@ -1,0 +1,183 @@
+==> 2020-11-29 16:15:56 <==
+# cmd: C:\ProgramData\Anaconda2\Scripts\conda-script.py create -p C:\ProgramData\Anaconda2\envs\YAFS38 -y python=3.8
+# conda version: 4.7.12
++defaults::ca-certificates-2020.10.14-he931aee_0
++defaults::certifi-2020.11.8-py38h9f7ea03_0
++defaults::openssl-1.1.1h-he774522_0
++defaults::pip-20.2.4-py38h9f7ea03_0
++defaults::python-3.8.5-h5fd99cc_1
++defaults::setuptools-50.3.1-py38h9f7ea03_1
++defaults::sqlite-3.33.0-h2a8f88b_0
++defaults::vc-14.1-h0510ff6_4
++defaults::vs2015_runtime-14.16.27012-hf0eaf9b_3
++defaults::wheel-0.35.1-pyhd3eb1b0_0
++defaults::wincertstore-0.2-py38_0
++defaults::zlib-1.2.11-h33f27b4_4
+# update specs: [u'python=3.8']
+==> 2020-11-29 16:16:38 <==
+# cmd: C:\ProgramData\Anaconda2\Scripts\conda-script.py install -p C:/ProgramData/Anaconda2/envs/YAFS38 networkx -y
+# conda version: 4.7.12
++defaults::decorator-4.4.2-py_0
++defaults::networkx-2.5-py_0
+# update specs: [u'networkx']
+==> 2020-11-29 16:21:45 <==
+# cmd: C:\ProgramData\Anaconda2\Scripts\conda-script.py install -p C:/ProgramData/Anaconda2/envs/YAFS38 matplotlib -y
+# conda version: 4.7.12
++defaults::blas-1.0-mkl
++defaults::cycler-0.10.0-py38_0
++defaults::freetype-2.10.4-h5b497f6_0
++defaults::icu-58.2-ha925a31_3
++defaults::intel-openmp-2020.2-254
++defaults::jpeg-9b-he27b436_2
++defaults::kiwisolver-1.3.0-py38h6986bd8_0
++defaults::libpng-1.6.37-h2a8f88b_0
++defaults::libtiff-4.1.0-h56a325e_1
++defaults::lz4-c-1.9.2-h62dcd97_1
++defaults::matplotlib-3.3.1-0
++defaults::matplotlib-base-3.3.1-py38h4c87cce_0
++defaults::mkl-2020.2-256
++defaults::mkl-service-2.3.0-py38hc431981_0
++defaults::mkl_fft-1.2.0-py38h45dec08_0
++defaults::mkl_random-1.1.1-py38h47e9c7a_0
++defaults::numpy-1.19.2-py38h0f2e2a7_0
++defaults::numpy-base-1.19.2-py38hfe54e71_0
++defaults::olefile-0.46-py_0
++defaults::pillow-8.0.1-py38h371c38d_0
++defaults::pyparsing-2.4.7-py_0
++defaults::pyqt-5.9.2-py38ha925a31_4
++defaults::python-dateutil-2.8.1-py_0
++defaults::qt-5.9.7-vc14h73c81de_0
++defaults::sip-4.19.13-py38ha925a31_0
++defaults::six-1.15.0-py38h9f7ea03_0
++defaults::tk-8.6.10-he774522_0
++defaults::tornado-6.0.4-py38he774522_1
++defaults::xz-5.2.5-h62dcd97_0
++defaults::zstd-1.4.5-h04227a9_0
+# update specs: [u'matplotlib']
+==> 2020-11-29 16:30:07 <==
+# cmd: C:\ProgramData\Anaconda2\Scripts\conda-script.py install -p C:/ProgramData/Anaconda2/envs/YAFS38 scipy -y
+# conda version: 4.7.12
++defaults::icc_rt-2019.0.0-h0cc432a_1
++defaults::scipy-1.5.2-py38h9439919_0
+# update specs: [u'scipy']
+==> 2020-11-29 18:06:11 <==
+# cmd: C:\ProgramData\Anaconda2\Scripts\conda-script.py install -p C:/ProgramData/Anaconda2/envs/YAFS38 pandas -y
+# conda version: 4.7.12
++defaults::pandas-1.1.3-py38h40edd37_0
++defaults::pytz-2020.1-py_0
+# update specs: [u'pandas']
+==> 2020-11-29 18:06:34 <==
+# cmd: C:\ProgramData\Anaconda2\Scripts\conda-script.py install -p C:/ProgramData/Anaconda2/envs/YAFS38 tqdm -y
+# conda version: 4.7.12
++defaults::tqdm-4.51.0-pyhd3eb1b0_0
+# update specs: [u'tqdm']
+==> 2020-12-03 21:25:29 <==
+# cmd: C:\ProgramData\Anaconda2\Scripts\conda-script.py install -p C:/ProgramData/Anaconda2/envs/YAFS38 pandas==0.25.3 -y
+# conda version: 4.7.12
+-defaults::pandas-1.1.3-py38h40edd37_0
++defaults::pandas-0.25.3-py38ha925a31_0
+# update specs: [u'pandas==0.25.3']
+==> 2020-12-13 19:34:46 <==
+# cmd: C:\ProgramData\Anaconda2\Scripts\conda-script.py install -p C:/ProgramData/Anaconda2/envs/YAFS38 tqdm -y
+# conda version: 4.7.12
+-defaults::ca-certificates-2020.10.14-he931aee_0
+-defaults::certifi-2020.11.8-py38h9f7ea03_0
+-defaults::openssl-1.1.1h-he774522_0
+-defaults::tqdm-4.51.0-pyhd3eb1b0_0
++defaults::ca-certificates-2020.12.8-h9f7ea03_0
++defaults::certifi-2020.12.5-py38h9f7ea03_0
++defaults::openssl-1.1.1i-hc431981_0
++defaults::tqdm-4.54.1-pyhd3eb1b0_0
+# update specs: [u'tqdm']
+# neutered specs: [u'pandas']
+==> 2020-12-18 14:02:59 <==
+# cmd: C:\ProgramData\Anaconda2\Scripts\conda-script.py install -p C:/ProgramData/Anaconda2/envs/YAFS38 jupyterlab -y
+# conda version: 4.7.12
++defaults::argon2-cffi-20.1.0-py38he774522_1
++defaults::async_generator-1.10-py_0
++defaults::attrs-20.3.0-pyhd3eb1b0_0
++defaults::backcall-0.2.0-py_0
++defaults::bleach-3.2.1-py_0
++defaults::brotlipy-0.7.0-py38hc431981_1003
++defaults::cffi-1.14.4-py38hb88044d_0
++defaults::chardet-4.0.0-py38h9f7ea03_1003
++defaults::colorama-0.4.4-pyhd3eb1b0_0
++defaults::cryptography-3.3.1-py38hb88044d_0
++defaults::defusedxml-0.6.0-py_0
++defaults::entrypoints-0.3-py38_0
++defaults::idna-2.10-py_0
++defaults::importlib-metadata-2.0.0-py_1
++defaults::importlib_metadata-2.0.0-1
++defaults::ipykernel-5.3.4-py38h5ca1d4c_0
++defaults::ipython-7.19.0-py38h4814f7d_0
++defaults::ipython_genutils-0.2.0-pyhd3eb1b0_1
++defaults::jedi-0.17.0-py38_0
++defaults::jinja2-2.11.2-py_0
++defaults::json5-0.9.5-py_0
++defaults::jsonschema-3.2.0-py_2
++defaults::jupyter_client-6.1.7-py_0
++defaults::jupyter_core-4.7.0-py38h9f7ea03_0
++defaults::jupyterlab-2.2.6-py_0
++defaults::jupyterlab_pygments-0.1.2-py_0
++defaults::jupyterlab_server-1.2.0-py_0
++defaults::libsodium-1.0.18-h62dcd97_0
++defaults::m2w64-gcc-libgfortran-5.3.0-6
++defaults::m2w64-gcc-libs-5.3.0-7
++defaults::m2w64-gcc-libs-core-5.3.0-7
++defaults::m2w64-gmp-6.1.0-2
++defaults::m2w64-libwinpthread-git-5.0.0.4634.697f757-2
++defaults::markupsafe-1.1.1-py38he774522_0
++defaults::mistune-0.8.4-py38he774522_1000
++defaults::msys2-conda-epoch-20160418-1
++defaults::nbclient-0.5.1-py_0
++defaults::nbconvert-6.0.7-py38he931aee_0
++defaults::nbformat-5.0.8-py_0
++defaults::nest-asyncio-1.4.3-pyhd3eb1b0_0
++defaults::notebook-6.1.5-py38h9f7ea03_0
++defaults::packaging-20.8-pyhd3eb1b0_0
++defaults::pandoc-2.11-he931aee_0
++defaults::pandocfilters-1.4.3-py38h9f7ea03_1
++defaults::parso-0.8.1-pyhd3eb1b0_0
++defaults::pickleshare-0.7.5-pyhd3eb1b0_1003
++defaults::prometheus_client-0.9.0-pyhd3eb1b0_0
++defaults::prompt-toolkit-3.0.8-py_0
++defaults::pycparser-2.20-py_2
++defaults::pygments-2.7.3-pyhd3eb1b0_0
++defaults::pyopenssl-20.0.1-pyhd3eb1b0_1
++defaults::pyrsistent-0.17.3-py38he774522_0
++defaults::pysocks-1.7.1-py38h9f7ea03_0
++defaults::pywin32-227-py38he774522_1
++defaults::pywinpty-0.5.7-py38_0
++defaults::pyzmq-19.0.2-py38ha925a31_1
++defaults::requests-2.25.1-pyhd3eb1b0_0
++defaults::send2trash-1.5.0-pyhd3eb1b0_1
++defaults::terminado-0.9.1-py38he931aee_0
++defaults::testpath-0.4.4-py_0
++defaults::traitlets-5.0.5-py_0
++defaults::urllib3-1.26.2-pyhd3eb1b0_0
++defaults::wcwidth-0.2.5-py_0
++defaults::webencodings-0.5.1-py38_1
++defaults::win_inet_pton-1.1.0-py38h9f7ea03_0
++defaults::winpty-0.4.3-4
++defaults::zeromq-4.3.2-ha925a31_3
++defaults::zipp-3.4.0-pyhd3eb1b0_0
+# update specs: [u'jupyterlab']
+==> 2020-12-18 22:17:29 <==
+# cmd: C:\ProgramData\Anaconda2\Scripts\conda-script.py install -p C:/ProgramData/Anaconda2/envs/YAFS38 pandas -y
+# conda version: 4.7.12
+-defaults::pandas-0.25.3-py38ha925a31_0
++defaults::pandas-1.1.5-py38hcf78d83_0
+# update specs: [u'pandas']
+==> 2020-12-18 22:27:31 <==
+# cmd: C:\ProgramData\Anaconda2\Scripts\conda-script.py install -p C:/ProgramData/Anaconda2/envs/YAFS38 pandas==0.25.3 -y
+# conda version: 4.7.12
+-defaults::pandas-1.1.5-py38hcf78d83_0
++defaults::pandas-0.25.3-py38ha925a31_0
+# update specs: [u'pandas==0.25.3']
+==> 2020-12-18 22:30:23 <==
+# cmd: C:\ProgramData\Anaconda2\Scripts\conda-script.py install -p C:/ProgramData/Anaconda2/envs/YAFS38 pandas -y
+# conda version: 4.7.12
+-defaults::pandas-0.25.3-py38ha925a31_0
++defaults::pandas-1.1.5-py38hcf78d83_0
+# update specs: [u'pandas']
+# neutered specs: [u'pandas']

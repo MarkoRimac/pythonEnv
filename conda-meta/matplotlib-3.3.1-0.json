@@ -1,0 +1,36 @@
+{
+  "build": "0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-32",
+  "constrains": [],
+  "depends": [
+    "matplotlib-base >=3.3.1,<3.3.2.0a0",
+    "pyqt"
+  ],
+  "extracted_package_dir": "C:\\Users\\Rimac\\.conda\\pkgs\\matplotlib-3.3.1-0",
+  "features": "",
+  "files": [],
+  "fn": "matplotlib-3.3.1-0.conda",
+  "legacy_bz2_md5": "352eb1ca98bbfa2439adecb4f72b7afa",
+  "license": "LicenseRef-PSF-based",
+  "license_family": "PSF",
+  "link": {
+    "source": "C:\\Users\\Rimac\\.conda\\pkgs\\matplotlib-3.3.1-0",
+    "type": 1
+  },
+  "md5": "fccf4246a831ea5e520e8507f5a2bf01",
+  "name": "matplotlib",
+  "package_tarball_full_path": "C:\\Users\\Rimac\\.conda\\pkgs\\matplotlib-3.3.1-0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "matplotlib",
+  "sha256": "664605c13461ede1eb487efe5e06fb617c1c672ea375f0d4c28d2baa094b896d",
+  "size": 25516,
+  "subdir": "win-32",
+  "timestamp": 1597876715981,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-32/matplotlib-3.3.1-0.conda",
+  "version": "3.3.1"
+}
